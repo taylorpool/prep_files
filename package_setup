@@ -1,0 +1,27 @@
+sudo apt update
+sudo apt install vim
+sudo apt install git
+sudo apt install zsh
+sudo apt install curl
+sudo apt install ssh
+sudo apt install exfat-utils
+sudo apt install libboost-all-dev
+sudo apt install libeigen3-dev
+sudo apt install python-dev
+sudo apt install python3-dev
+sudo apt install python-pip
+sudo apt install python3-pip
+sudo apt install libopenblas-dev
+sudo apt install liblapacke-dev
+sudo apt install libtbb-dev
+sudo apt install htop
+sudo apt install build-essential
+sudo apt install manpages-dev
+sudo apt install gcc
+sudo apt install cmake
+sudo apt install pybind11-dev
+sudo apt install libcanberra-gtk-module
+sudo apt install libeigen-stl-containers-dev
+
+CMAKE_PREFIX_PATH=/usr:/opt/ros/melodic
+CATKIN_PREFIX_PATH=/usr:/opt/ros/melodic
