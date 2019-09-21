@@ -1,0 +1,4 @@
+This bash script should update all of your packages needed to catkin_make.
+It will also update all of the submodules linkied to the git branches you are working with.
+It will also set new values for environment variables CMAKE_PREFIX_PATH and CATKIN_PREFIX_PATH.
+Finally it will restart the bash terminal in order to update all of the changes.
